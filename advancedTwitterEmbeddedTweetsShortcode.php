@@ -31,6 +31,6 @@ add_shortcode('embedTweet', 'advancedTwitterEmbeddedTweetsShortcode');
 		$data = "";
         $data .= $html;
 		if($author == "true"){
-			$data .= "<div style='font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;'><a href='http://www.liveherechicago.com/search-listing-lincoln-park.php' target='_blank' style='color: #808080;' title='Click here'>Lincoln Park Apartments Chicago</a></div>";}
+			$data .= "<div style='font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;'><a href='http://www.liveherechicago.com' target='_blank' style='color: #808080;' title='Live Here Chicago'>Click here</a></div>";}
     return $data;
  }
