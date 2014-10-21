@@ -21,6 +21,7 @@ Features of Advanced Twitter Embedded Tweets Shortcode
 	* Easily can put twitter single post on your wordpress website everywhere you want.
 	* Many available attributes.
 	* Photo or Video Post can be embedded as well
+	* Can embed Multiple Tweets on Same page.
 
 == Installation ==
 
