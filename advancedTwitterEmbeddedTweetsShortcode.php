@@ -31,6 +31,6 @@ add_shortcode('embedTweet', 'advancedTwitterEmbeddedTweetsShortcode');
 		$data = "";
         $data .= $html;
 		if($author == "true"){
-			$data .= "<div style='font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;'><a href='http://www.backpainfreeme.com/' target='_blank' style='color: #808080;' title='Click Here'>Lagrange chiropractor</a></div>";}
+			$data .= "<div style='font-size: 9px; color: #808080; font-weight: normal; font-family: tahoma,verdana,arial,sans-serif; line-height: 1.28; text-align: right; direction: ltr;'><a href='http://www.backpainfreeme.com/' target='_blank' style='color: #808080;' title='LaGrange West GA Back Pain Clinic'>Visit Us</a></div>";}
     return $data;
  }
